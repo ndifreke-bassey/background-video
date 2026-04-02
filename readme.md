@@ -28,4 +28,4 @@ This project showcases a web page with a full-screen video background, featuring
 
 ## Footer
 
-This webpage is powered by **Eagletech** - "Soaring through Innovation".
+This webpage is powered by **Ndifreke-abasi Bassey** - "Soaring through Innovation".
